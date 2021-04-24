@@ -3,7 +3,9 @@
 
 - 👀 I’m interested in Web development , Robotics
 
-- 🌱 I’m currently learning PHP , C#
+- 🌱 I’m currently learning PHP 
+
+- Language that I known HTML , CSS 
 
 - 📫 Email : ricehung29@outlook.com
       Feel free to mail me 
