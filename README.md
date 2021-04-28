@@ -2,10 +2,10 @@
 - I am a secondary school student from Hong Kong
 
 - 👀 I’m interested & working on  :
-- Frontend web development (HTML , CSS)
-- Backend web development (PHP , Cloudflare & Server side)
-- Single-board microcontroller development (Arduino Uno) 
-- Cloud data process /n
+  - Frontend web development (HTML , CSS)
+  - Backend web development (PHP , Cloudflare & Server side)
+  - Single-board microcontroller development (Arduino Uno) 
+  - Cloud data process /n
 
 - 🌱 I’m currently learning PHP & Linux Bash 
 
