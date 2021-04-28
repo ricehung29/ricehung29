@@ -5,7 +5,7 @@
   - Frontend web development (HTML , CSS)
   - Backend web development (PHP , Cloudflare & Server side)
   - Single-board microcontroller development (Arduino Uno) 
-  - Cloud data process /n
+  - Cloud data process 
 
 - 🌱 I’m currently learning PHP & Linux Bash 
 
