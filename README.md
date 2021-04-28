@@ -1,14 +1,17 @@
 - 👋 Hi, I’m @ricehung29
 - I am a secondary school student from Hong Kong
 
-- 👀 I’m interested in Web development , Robotics
+- 👀 I’m interested & working on  :
+- Frontend web development (HTML , CSS)
+- Backend web development (PHP , Cloudflare & Server side)
+- Single-board microcontroller development (Arduino Uno) 
+- Cloud data process 
 
 - 🌱 I’m currently learning PHP 
 
-- Language that I known HTML , CSS 
-
 - 📫 Email : ricehung29@outlook.com
-      Feel free to mail me 
+
+- Contact me : https://ricehungcloud.win/conform/
 
 <!---
 ricehung29/ricehung29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
