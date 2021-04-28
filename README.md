@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ricehung29
-- I am a secondary school student from Hong Kong
-/n
+- I am a secondary school student from Hong Kong/n
+- 
 - 👀 I’m interested & working on  :
 - Frontend web development (HTML , CSS)
 - Backend web development (PHP , Cloudflare & Server side)
 - Single-board microcontroller development (Arduino Uno) 
 - Cloud data process 
-/n
+
 - 🌱 I’m currently learning PHP & Linux Bash
 
 - 📫 Email : ricehung29@outlook.com
