@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ricehung29
-- I am a secondary school student from Hong Kong
+- 👋 Hi, I’m Rice Hung
+- Student from Hong Kong
 
 - 👀 I’m interested in & working on  :
   - Frontend web development (HTML , CSS)
   - Backend web development (PHP , Cloudflare & Server side)
-  - Single-board microcontroller development (Arduino Uno , C++ , C) 
+  - Single-board microcontroller development (Arduino Uno , C++) 
   - Cloud data process 
 
 - 🌱 I’m currently learning PHP & Linux Bash 
