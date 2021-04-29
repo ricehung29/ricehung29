@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently learning PHP & Linux Bash 
 
-- Stuff worked on before :
-- Windows Batch script 
-- iOS Jailbreak
-- Kali Linux 
+- 🌏Stuff worked on before :
+    - Windows Batch script 
+    - iOS Jailbreak
+    - Kali Linux 
 
 - 📫 Email : ricehung29@outlook.com 
 
