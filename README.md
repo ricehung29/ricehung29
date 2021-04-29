@@ -4,10 +4,15 @@
 - 👀 I’m interested in & working on  :
   - Frontend web development (HTML , CSS)
   - Backend web development (PHP , Cloudflare & Server side)
-  - Single-board microcontroller development (Arduino Uno) 
+  - Single-board microcontroller development (Arduino Uno , C++ , C) 
   - Cloud data process 
 
 - 🌱 I’m currently learning PHP & Linux Bash 
+
+- Stuff worked on before :
+- Windows Batch script 
+- iOS Jailbreak
+- Kali Linux 
 
 - 📫 Email : ricehung29@outlook.com 
 
