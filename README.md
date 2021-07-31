@@ -10,9 +10,7 @@
 - 🌏Stuff worked on before :
     - iOS Jailbreak
 
-- 📫 Email : ricehung29@outlook.com 
-
-- Contact me : https://ricehungcloud.win/conform/ 
+- Contact me : ricehung29@outlook.com 
 
 <!---
 ricehung29/ricehung29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
