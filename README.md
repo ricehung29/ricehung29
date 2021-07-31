@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rice Hung
+- Hi I’m Rice Hung
 - Student from Hong Kong
 
 - 👀 I’m interested in & working on  :
@@ -11,6 +11,8 @@
     - iOS Jailbreak
 
 - Contact me : ricehung29@outlook.com 
+
+祝你在亂流下平安
 
 <!---
 ricehung29/ricehung29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
