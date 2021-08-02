@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in & working on  :
   - Web development (Both Frontend and Backend)
-  - Single-board microcontroller development (Arduino Uno , C++) 
+  - Single-board microcontroller development (Arduino , C++) 
 
 - 🌱 I’m currently learning PHP & Linux Bash 
 
