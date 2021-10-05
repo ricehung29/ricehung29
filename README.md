@@ -1,14 +1,12 @@
 - Hi I’m Rice Hung
-- Student from Hong Kong
+- Hong Kong student
 
-- 👀 I’m interested in & working on  :
-  - Web development (Both Frontend and Backend)
-  - Single-board microcontroller development (Arduino , C++) 
-
-- 🌱 I’m currently learning PHP & Linux Bash 
-
-- 🌏Stuff worked on before :
-    - iOS Jailbreak
+- Interested in   :
+  - Web development (Frontend and Backend)
+  - Microcontroller (Arduino / C++) 
+  - PHP & Linux Bash
+  - iOS Jailbreak
+  - PWA
 
 - Contact me : ricehung29@outlook.com 
 
