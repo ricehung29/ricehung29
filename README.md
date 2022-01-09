@@ -2,11 +2,8 @@
 - Hong Kong student
 
 - Interested in   :
-  - Web development (Frontend and Backend)
-  - Microcontroller (Arduino / C++) 
-  - PHP & Linux Bash
-  - iOS Jailbreak
-  - PWA
+  - Web development (Frontend , PHP )
+  - Robotics Application (Arduino / C++) 
 
 - Contact me : ricehung29@outlook.com 
 
