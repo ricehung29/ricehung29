@@ -1,9 +1,8 @@
-- Hi I’m Rice Hung
-- Hong Kong student
+- Hi I’m Rice Hung , a member of Robotics Team , CSWCSS , HK
 
 - Interested in   :
   - Web development (Frontend , PHP )
-  - Robotics Application (Arduino / C++) 
+  - Robotics Application (CNC / Laser Cut / BLDC) 
 
 - Contact me : ricehung29@outlook.com 
 
