@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/68941497?v=4">
+
 - Hi I’m Rice Hung , a member of Robotics Team , CSWCSS , HK
 
 - Interested in   :
