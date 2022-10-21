@@ -1,13 +1,13 @@
 
-- Hi I’m Rice Hung , a member of Robotics Team , CSWCSS , HK
+- A member of CSWCSS Robotics Team
 
-- Interested in   :
+- Interested in:
   - Web development (PHP/Frontend)
   - Robotics Application (PCB/BLDC/MCU) 
 
-- Contact me : ricehung29@outlook.com 
+- Contact: ricehung29@outlook.com 
 
-祝你在亂流下平安
+祝你在亂流下平安 <br>
 dadadada dadadada
 
 <!---
